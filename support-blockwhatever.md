@@ -1,6 +1,8 @@
 # Welcome to Block Whatever Support
 
+## Contact Us
+
 Please tell us how we can help:
 
-Email: <lidulihai@gmail.com>
+By email: lidulihai@gmail.com
 
